@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506919377031",
+    "firebase_url": "https://travelerguide-96170.firebaseio.com",
+    "project_id": "travelerguide-96170",
+    "storage_bucket": "travelerguide-96170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506919377031:android:909aedfd5dc7f05b",
+        "android_client_info": {
+          "package_name": "com.example.travelerguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506919377031-g45omkkoih4tlv72jjilr1en188u2qs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelerguide",
+            "certificate_hash": "5215da7d028cd9673218c93c87c2ede13b2581b3"
+          }
+        },
+        {
+          "client_id": "506919377031-i9uomc5816qnbug4gr6dv2atkbc0ntmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE_mARdEVdUP-V7Bbt-ERFhW3DImG4hEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506919377031-i9uomc5816qnbug4gr6dv2atkbc0ntmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
